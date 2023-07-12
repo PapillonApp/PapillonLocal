@@ -1,4 +1,4 @@
-# PapillonLocal (Expérimental)
+# PapillonLocal (Expérimental - Proof of Concept)
 
 Ceci est une implémentation de l'API [Papillon](https://github.com/PapillonApp/papillon-python/releases/tag/v3.5.1) sur Android, basée sur la version modifiée 3.5.1 de papillon-python. Vous pouvez télécharger l'application à partir du lien ci-dessous.
 
