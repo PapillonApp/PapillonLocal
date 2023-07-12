@@ -1,4 +1,4 @@
-# PapillonLocal
+# PapillonLocal (Expérimental)
 Ceci est une implémentation de l'API Papillon sur Android. Vous pouvez télécharger l'application à partir du lien ci-dessous.
 
 Télécharger ici : [Latest Release](https://github.com/andronedev/PapillonLocal/releases)
